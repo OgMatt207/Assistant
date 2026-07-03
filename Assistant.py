@@ -60,6 +60,7 @@ def wishes():
 #Functions to opens apps
 def open_app(app_name):
     app_paths = {
+    #Examples I used on my laptop, so you would need to change these examples yourself
     "google": r"C:\Program Files\Mozilla Firefox\firefox.exe",
     "game": r"C:\Users\Matt\Downloads\GTA San Andreas\gta_sa.exe",
     "visual studio code": r"C:\Users\Matt\AppData\Local\Programs\Microsoft VS Code\Code.exe"

@@ -63,6 +63,7 @@ def open_app(app_name):
     "google": r"C:\Program Files\Mozilla Firefox\firefox.exe",
     "game": r"C:\Users\Matt\Downloads\GTA San Andreas\gta_sa.exe",
     "visual studio code": r"C:\Users\Matt\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+    #Add more if you like
     }
 
     app_name = app_name.lower()
